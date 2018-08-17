@@ -106,7 +106,7 @@
 		}
 
 		.container {
-			width: 45em;
+			width: 60em;
 		}
 
 	}
@@ -132,7 +132,7 @@
 		}
 
 		.container {
-			width: 42em;
+			width: 60em;
 		}
 
 	}
@@ -2428,7 +2428,7 @@
 			display: inline-block;
 			padding-right: 2.5em;
 			vertical-align: middle;
-			width: 48%;
+			width: 30%;
 		}
 
 			.features article .image img {
@@ -2440,7 +2440,7 @@
 		.features article .inner {
 			display: inline-block;
 			vertical-align: middle;
-			width: 50%;
+			width: 68%;
 		}
 
 			.features article .inner > :last-child {
